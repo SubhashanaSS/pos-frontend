@@ -1,0 +1,52 @@
+.home {
+    position: relative;
+    
+  }
+
+  .home h2{
+    position: absolute;
+    top: 7%; 
+    left: 5%;
+    color: #ffffff; 
+    font-size: 40px; 
+    font-weight: bold;
+  }
+  
+  .home h1 {
+    position: absolute;
+    top: 50%; 
+    left: 15%;
+    color: #ffffff; 
+    font-size: 40px; 
+    font-weight: bold;
+    font-family:monospace;
+  }
+  
+  .home p{
+    position: absolute;
+    top: 55%; 
+    left: 15%;
+    color: #ffffff;
+    font-size: 20px; 
+    font-weight: bold;
+    font-family:monospace;
+  }
+
+  .home button{
+    position: absolute;
+    top: 63%;
+    left: 15%;
+    border: none;
+    background: none;
+    background-color: rgba(155, 121, 124, 0.659);
+    border-radius: 10px;
+    font-size: large;
+    font-weight: 500;
+    color: white;
+    transition: 0.5s;
+  }
+
+  .home button:hover{
+    background-color: rgb(155, 121, 124);
+    transform: scale(1.1);
+  }
