@@ -1,0 +1,29 @@
+.form{
+    padding: 30px 500px;
+}
+
+.form button{
+    width: 150px;
+    margin-left: 170px;
+}
+
+.card-section{
+    padding: 20px 30px;
+    padding-left: 110px;
+}
+
+.card{
+    max-width: 340px;
+    max-height: 600px;
+    margin-bottom: 30px;
+    transition: 0.5s;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.card img{
+    max-width: 350px;
+    height: 250px;
+}

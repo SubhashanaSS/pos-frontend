@@ -1,0 +1,17 @@
+.item{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.form-section{
+    /* padding: 100px 500px; */
+    margin-top: 50px;
+    padding-right: 1000px;
+    padding-left: 50px;
+}
+
+.table-section{
+    padding: 30px 50px;
+}
